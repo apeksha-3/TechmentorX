@@ -5,13 +5,18 @@ idea - What happens in the warehouse is instantly reflected in the accounts.
 
 The Problem
 SMEs often use multiple disconnected tools for:
--> Inventory tracking
--> Sales records
--> Financial bookkeeping
+<br>-> Inventory tracking
+<br>-> Sales records
+<br>-> Financial bookkeeping
 
 This leads to:
-Data mismatch
-Manual errors
-No single source of truth
+<br>->Data mismatch
+<br>->Manual errors
+<br>->No single source of truth
 
 Expensive and complex traditional ERP systems
+
+Solution
+WorkFLow - ERP connects Inventory → Sales → Finance in one platform using a multi-tenant architecture where:
+Each company has its own isolated workspace
+Employees join only through invite codes
